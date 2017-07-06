@@ -1,0 +1,12 @@
+{
+  "name": "material-icons-list",
+  "version": "0.1.0",
+  "description": "json list of material icons",
+  "main": "index.js",
+  "repository": "https://github.com/kaadash/material-icons-list",
+  "author": "Artur Kudeł (kaadash)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
